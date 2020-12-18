@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "511391267193",
+    "firebase_url": "https://arduino-e2c20-default-rtdb.firebaseio.com",
+    "project_id": "arduino-e2c20",
+    "storage_bucket": "arduino-e2c20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511391267193:android:e3e2493529ca10885317a8",
+        "android_client_info": {
+          "package_name": "com.example.esp8266"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511391267193-nb30f9l3ghemrvbr7erjelvse92hviaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.esp8266",
+            "certificate_hash": "85eb6fa8986820d33f63d483a61f3d45485d606b"
+          }
+        },
+        {
+          "client_id": "511391267193-b57942vctcutvqipu55m5a6v55fh5rnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsQqW4_Tp4pRzEFiNZ7gyMKtPfCV6Qkwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511391267193-b57942vctcutvqipu55m5a6v55fh5rnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
